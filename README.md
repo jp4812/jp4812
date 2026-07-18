@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-navy-omega-93.vercel.app/api?username=jp4812&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-navy-omega-93.vercel.app/api/top-langs/?username=jp4812&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=jp4812&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jp4812&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -61,16 +61,16 @@
 
 <p align="center">
   <a href="https://github.com/jp4812/Fact-Checker">
-    <img src="https://github-readme-stats-navy-omega-93.vercel.app/api/pin/?username=jp4812&repo=Fact-Checker&theme=radical&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jp4812&repo=Fact-Checker&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/jp4812/OS-Simulator-Scheduling-Visulaizer">
-    <img src="https://github-readme-stats-navy-omega-93.vercel.app/api/pin/?username=jp4812&repo=OS-Simulator-Scheduling-Visulaizer&theme=radical&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jp4812&repo=OS-Simulator-Scheduling-Visulaizer&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/jp4812/Drawing-Board">
-    <img src="https://github-readme-stats-navy-omega-93.vercel.app/api/pin/?username=jp4812&repo=Drawing-Board&theme=radical&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jp4812&repo=Drawing-Board&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/jp4812/Battleship-Game">
-    <img src="https://github-readme-stats-navy-omega-93.vercel.app/api/pin/?username=jp4812&repo=Battleship-Game&theme=radical&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jp4812&repo=Battleship-Game&theme=radical&hide_border=true" />
   </a>
 </p>
 
