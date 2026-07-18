@@ -50,7 +50,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jp4812/jp4812/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/jp4812/jp4812/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 > Set up automatically once you add the GitHub Action below (see setup notes).
